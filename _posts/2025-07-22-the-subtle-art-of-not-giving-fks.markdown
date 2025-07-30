@@ -46,3 +46,19 @@ You can cry about how life has been or choose to try and do something about it.
 Again like I stated earlier, we are never right, just close to being right. We cant really trust out memories too, our brains are not right they are just efficient, they store info which seem right to us but might not be right. Based on situation the same set of memories can be interpreted differently, maybe you hate the person now that all memories of him just highlight the facts about them being annoying which used to seem good before.
 
 Its only when you accept that you can be wrong, can you learn to improve yourself.
+
+## Failure is the way forward
+
+Improvement of anything is based on failures which preceed it. There is a direct correlation to number of failures to improvement we have.
+
+If we are better than someone, it just means we had more failures than him to learn from. So, we shouldn't avoid failures
+
+## The importance of saying no
+
+We need to learn to reject things. We already do this in everyday life, i.e., when we decide to do something, it just means that we have decided to reject it's alternative.
+
+We should stop avoiding problems and avoiding rejections. We should instead confront them. Don't wait on someone to take care of your problems.
+
+Freedom is good but its useless by itself, it needs to have some meaning to it.
+
+For the short run, trying out a breadth of things is good but it is the depth of anything which we would truly appreciate. We can think og having a commitment to something/anything, gives us the freedom from various distractions.
