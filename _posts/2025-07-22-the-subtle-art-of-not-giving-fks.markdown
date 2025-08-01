@@ -62,3 +62,14 @@ We should stop avoiding problems and avoiding rejections. We should instead conf
 Freedom is good but its useless by itself, it needs to have some meaning to it.
 
 For the short run, trying out a breadth of things is good but it is the depth of anything which we would truly appreciate. We can think og having a commitment to something/anything, gives us the freedom from various distractions.
+
+## And then you die
+In the face of the inevitability of death, we don't need to bother about shame or fear. We should try out things.
+
+According to Becker, it can be seen as us having two selfs, one physical and one conceptual. Since, we know that the physical self is gonna die at some point, we have this urge to let our conceptual self remain, for example, writing our names on things, statues or passing our ideals to children, for us to be idolised - with the goal to be immortalized.
+
+In fact our civilisation, religion, tech, politics etc are just remnants of the conceptual selfs of our predecessors. All of this, just to tackle the fear of death.
+
+But the only problem is that, we are attaching ourselves to external validations this way, which could eventually lead to dissapointment.
+
+Accept death, prioritize what truly matters and don't give any fks about the rest.
