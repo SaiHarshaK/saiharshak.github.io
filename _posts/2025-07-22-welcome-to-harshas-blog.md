@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to Harsha's Blog!"
-date: 2025-07-22 21:00:00 +0530
+date: 2025-01-01 00:00:00 +0530
 categories: [Personal, Introduction]
 tags: [welcome, introduction, blog]
 author: harsha
