@@ -1,39 +1,124 @@
----
-layout: post
-title:  "Outlive: The Science and Art of Longevity"
-date:   2025-08-03 20:06:52 +0530
-categories: [Books, Self-Help]
-tags: blog
-author: harsha
----
+--- 
 
-## Introduction
-Author gave up medicine when he realised as a cancer specialist, that he was only delaying the inevitable and not curing them. But later he realised, that we can actually put a stop to the source, i.e., our lifestyle, which mostly is the cause for the diseases we get.
+layout: post 
 
-## Long game, from fast death to slow death
-Longetivity is not just how long we live but also the quality with which we live. 
+title:  "Outlive: The Science and Art of Longevity" 
 
-Most of the times when we are admitted to hospital it’s too late and at the point where little could be done. The only good way is to change the source, the lifestyle. For example, the major reduction in people stopping smoking over last decade has eliminated so many problems.
+date:   2025-08-03 20:06:52 +0530 
 
-Emotional health is also very important, as it alone as decimate whatever things we have been maintaining physically.
+categories: [Books, Self-Help] 
 
-## Rethinking medicine for the age of chronic disease
+tags: blog 
 
-Author says resistance to change and innovation at his place, for usual medical procedures, which made him what to quit.
+author: harsha 
 
-It’s about the risk and reward factor, risk is more readily taken in other professions like banking finance but in Medicine, more emotional than analytical emphasis is put.
+--- 
 
-There was an age old saying which got morphed to - Do no harm, which became the motto for surgeons. Which doesn’t really make sense, coming from the old times, because they would follow more harmful procedures like blood letting, drilling holes into skulls for headache , using mercury which is super toxic, etc
+## Introduction 
 
-It is not saying that we should look for riskiest but short term harm might not mean long term harm.
-One example shared from author experience, was a patient who would have died in the elevator ride to operation room where the surgery could have been done in a sterile fashion. But there was a very high chance that he would have died if kept that long, so author had to operate him in the elevator itself , which did pose a huge risk but then again saved him. Sometimes doing nothing is the riskiest choice.
+The author gave up medicine when he realized as a cancer specialist that he was only delaying the inevitable rather than curing them. But later he realized that we can actually put a stop to the source, i.e., our lifestyle, which mostly is the cause of the diseases we get. 
 
-Risk should be not straight up avoided but rather to be analysed to work with.
 
-Most chronic diseases cure isn’t readily solvable like cancer, etc and they are in the body for a long time before they trigger and is too late to be saved most of the times.
+## Long game, from fast death to slow death 
 
-Advancement to technology is also playing an important role in diagnosis and prevention of many diseases. Lot of gadgets which help patients to monitor their body health markers. Even when we go for tests, most are static which tell average data for example blood glucose where we fast and do tests to get an avg value for last 90 days vs use of devices which monitors blood glucose levels in real time, helping with much better diagnosis, taking a feedback driven approach.
+Longevity is not just how long we live but also the quality with which we live.   
+Most of the time, when we are admitted to hospital for a chronic disease, it’s too late and at the point where little could be done. The only good way is to change the source, the lifestyle. For example, the major reduction in people stopping smoking over the last decade has eliminated so many problems.  
+Emotional health is also very important, as it alone can decimate whatever things we have been maintaining physically. 
 
-Most medicine procedures, diagnosis etc right now are on data which is taking average on a huge set of people, and applying the medicine based on that. The new technological advances are helping view each patient as a unique individual and not just treating everybody as the same.
 
-We should start focusing on our quality of life (health span) for helping against diseases. Most medicine classes don’t really talk about things like how to maintain our physical and cognitive skills as we age, etc - like exercise, having enough sleep, nutritional benefits.
+## Rethinking medicine for the age of chronic disease 
+
+The author says resistance to change and innovation at his place for usual medical procedures, made him want to quit.  
+It’s about the risk and reward factor, risk is more readily taken in other professions like banking finance but in Medicine, it's more emotional than analytical emphasis is put.  
+There was an age old saying which got morphed to - Do no harm, which became the motto for surgeons. This doesn’t really make sense, coming from the old times, because they would follow more harmful procedures like bloodletting, drilling holes into skulls for headache, using mercury, which is super toxic, etc. 
+
+It is not saying that we should look for riskiest but short-term harm might not mean long term harm.  
+One example shared from author experience, was a patient who would have died in the elevator ride to operation room where the surgery could have been done in a sterile fashion. But there was a very high chance that he would have died if kept that long, so author had to operate him in the elevator itself, which did pose a huge risk but then again saved him. Sometimes doing nothing is the riskiest choice. 
+Risk should be not straight up avoided but rather to be analyzed to work with.  
+
+Most chronic diseases cure isn’t readily solvable like cancer, etc. and they are in the body for a long time before they trigger and is too late to be saved most of the times.  
+Advancement to technology is also playing an important role in diagnosis and prevention of many diseases. Lot of gadgets which help patients to monitor their body health markers. Even when we go for tests, most are static which tell average data. For example, blood glucose is calculated when we fast and do tests to get an average value for the last 90 days. There are better ways now such as, use of devices which monitor blood glucose levels in real time, helping with much better diagnosis, taking a feedback driven approach.  
+Most medicine procedures, diagnosis etc. right now are on data which is taking average on a huge set of people, and applying the medicine based on that. The new technological advances are helping view each patient as a unique individual and not just treating everybody as the same. 
+
+We should start focusing on our quality of life (health span) for helping against diseases. Most medicine classes don’t really talk about things like how to maintain our physical and cognitive skills as we age, etc. - like exercise, having enough sleep, nutritional benefits. 
+
+## Objective, strategy, tactics 
+Strategy is the overall plan while tactics is what we do to implement the smaller tasks at hand to achieve the result - the objective.  
+Post age 50, we usually see deterioration in physical and cognitive skills. We should try to plan now itself if we want to tackle how we live in the later years. We can follow the activities of daily living, which has basic things like walking unassisted, bathing and grooming, preparing meals, etc. Pretty simple when we are young, but gets harder as we age in our later years.  
+There is also emotional deterioration which can happen in young people too, something independent of age.  
+
+![Outlive](assets\img\outlive_1.jpg)
+
+Med2.0 is the old medicine way where we treat the symptoms, but Med 3.0 preaches to change lifestyle, tackle the source. 
+
+Med 3.0 primarily asks to do these to help with healthspan,
+- Exercise 
+- Nutrition 
+- Emotional health 
+- Sleep 
+- Exogenous molecules (like hormones, Supplements) 
+
+Exercise alone can help fight against so many ailments, especially cardiovascular exercises.  
+Sleep is also very essential, it helps retain our cognitive skills much longer, fight against mental health issues 
+
+## Centenarians, the older we get the healthier we have been 
+Lot of centenarians have peculiar habits like drinking, smoking and aren’t really that health conscious as an average person. It is very likely that the genes are in play for their longevity.  
+What we can do is follow certain behaviors to get what the centenarians get for free via their genes, as getting their genes is out of picture.   
+Natural selection prefers traits which help us reproduce early in life not those which help us stay healthy for long, this explains why most people still carry genes like male patterned baldness, etc. this concept is called antagonistic pleiotropy, where a gene may have beneficial effect early on (boosting fertility, bond strength, etc) but harmful effects later (cancer risk, neurodegeneration). Hence, the bad genes are carried forward as natural selection doesn’t care to eliminate them.  
+So, to address these genes, we need to take extra measure by strengthening our cognitive skills, exercises, etc (the 5 things discussed in earlier chapters)  
+
+We should focus on delaying the onset of diseases instead of delaying the duration of the disease.  
+Another thing to note is that the research for tackling diseases are being done one at a time, that is separate research for cancer, for Alzheimer’s, for heart stroke, instead of finding the commonalities and trying to address those. 
+
+## Eat less live longer, science of hunger and health 
+
+A molecule by the name Rapamycin, revolutionized the study of medicine, especially for transplant medicine. It was known to extend the maximum lifespan of people.  
+It was initially used for its antifungal properties but was later discovered to have immunosuppressive (suppress immune system - organ transplant, new organs are not rejected by immune system) and anti-proliferative properties (stops cells from multiplying - cancer treatment).  
+Researchers discovered that Rapamycin worked by inhibiting a protein complex inside cells that regulates growth and metabolism. This was named mTOR (mechanistic Target of Rapamycin) after the drug itself. 
+
+mTOR is present from yeast all the way to humans. As it is present in most life forms, it’s a very essential molecule according to evolution.   
+When we have enough nutrients, mTOR is activated which is responsible for cell division and going into reproduction mode, while when nutrients are scarce, it’s inhibited thereby the cells go into cleanup mode, stopping cell divisions.  
+It was the first molecule to increase longevity in mammals, and to give consistent results.   
+There is correlation on less food intake to longevity too. But that was made when doing for smaller animals like rats and might not be relevant to complex being like humans.   
+But in any case, if more nutrients were there the mitochondria would get oxidized over time or if not in use (being lazy I guess?) they would become less functional. When we do more exercise and have less nutrients than overdosing them, it helps in producing new mitochondria to replace them.   
+
+In specific, less amino acids seems to shut down mTOR and hence start the cell cleanup process to destroy old proteins and old cells into proteins.  
+But again, for a long time, given all these data points on rapamycin being a key driver to increasing longevity, we don’t use it on healthy people because of its immuno-suppressive effect. Then again, a derivative of rapamycin was found to have immuno-modulator effect - helps boost the vaccine effect. This suggested that rapamycin might not have immuno-suppressive but immuno-modulator.  
+
+It was then noted that it showed immuno-suppressive effect when taking low doses at intermittent times, while it showed immune modulator effect when taking medium to high doses with rest periods in between.  
+This is because there are actually two mTOR, mTOR1 and mTOR2. When taking daily both the molecules were inhibited but when taking it only briefly. Just mTOR1 was inhibited, which was seen to be the main molecule for longevity. Trials are happening around these findings currently. 
+
+People are more skeptical about taking these medicines – why take Rapamycin when we are already healthy? as medicines are usually taken when sick. That’s why the author is trying to show why med 3.0 is important to bring the shift in mindset.  
+
+## The crisis of Abundance 
+
+Liver is body true workhorse. A healthy liver is normally in a deep dark purple colour with smooth texture. It seems most people have non-alcoholic fatty liver disease where fat builds up in liver without alcohol consumption. 
+Liver is also known to regenerate a lot, donor and recover of liver transplant both recover fairly quickly.  
+
+Average is not necessarily optimal anymore. As the populace as a whole starts going overweight or showing symptoms of fatty liver, the average values of tests also skew over that direction. But those needn’t be optimal too. 
+
+Obesity used to be a main symptom if it would develop towards one of the horsemen, but author talks about Metabolic dysfunction, to be the more proper term, where you don’t always have to be obese for falling under the bigger set of problems like cardiovascular disease etc. These 5 criteria help see if we have it, (if you have any 3 of these at least then you have it) 
+1. High Blood Pressure 
+2. High triglyceride (type of fat which is stored in body when having excess calories) 
+3. Low HDL cholesterol (this is good cholesterol which helps transports fat from bloodstream into liver for disposal, having less means more chances of buildup in arteries etc) 
+4. Abdominal Obesity (waist length) 
+5. Elevated fasting glucose 
+
+Metabolic health decides what happens to the calories we take, having metabolic syndrome means these nutrients go to places where they are not needed.  
+
+Insulin – hormones decide what to do with incoming calories for storing energy. Broadly it ends up in either bloodstream for quick use of energy or stored as fat. Fat cells are important as they help store excess energy. If it’s all in bloodstream it’s basically like us having diabetes; high blood glucose is harmful for kidneys, blood vessels, nerves, eyes etc. And if fat cells are full then the excess calories have to go into bloodstream which is bad.  
+Visceral fat or abdominal obesity on other hand is bad to have, as these fat cells are around the organs unlike subcutaneous fat cells in general which are spread throughout like arms, thoughts etc.  
+Visceral fat cells release chemicals which increase insulin resistance.  
+
+Once we have too much fat, it starts to spill into the muscles from around. Insulin resistant basically means that the cells (initially the muscle cells) stopped listening to the insulin signals. Imagine blowing a balloon, it gets harder to blow as it gets bigger. But there’s a limit to this, post which it just can’t hold any more air.  
+Cortisol hormone, which is associated with stress and sleep, is a double-edged sword which removed subcutaneous fat but replaced it with more harmful visceral fat.  
+
+Insulin-resistance also, is associated with cancer according to some studies.  
+Fructose in large quantities also showed an increase in insulin, elevated blood pressure and fat gain. The same molecule is available in almost all fruits etc. It also produces a lot of uric acid when metabolizing, which has negative effects. Most mammals which eat a lot of fruits have an enzyme Uricase which helps clear out uric acid, but this isn’t present in humans.  
+There were some studies on why we might have lost this enzyme, which attributed it to the evolution of humans. When apes were in Africa, there were abundant fruits to eat but when they migrated to Europe, where there was scarcity of food during winters, evolution went towards storing the extra energy in our cells. As a side effect they also lost the Uricase enzyme, Then these apes migrated back with their uricase silencing genes, and these eventually evolved into humans. Increased uric acid seems to increase lipogenesis (fat creation).   
+This is useless in modern times as we have a lot of food abundance and preservative methods.   
+But again, it’s very difficult to gain fat eating a lot of apples compared to table sugar because apple’s fructose is slowly digested with its fiber etc. Its not just fructose, but even a lot of preservatives give increased uric acid. So that’s why having a lot of fruit juice or foods with excessive preservatives are also bad.  
+
+
+When cells metabolize, they spend some energy to metabolize and then after metabolizing the food they generate more ATPs. There is an enzyme which controls how much energy a cell can spend for metabolizing, but for fructose case another enzyme does it, which doesn’t put any limits. So, the body thinks that energy levels are dropping too much when metabolizing when in-fact a lot of energy is going to be generated.  
+One test to check signs of early insulin resistance is, on empty stomach have a solution with high sugar (Doctors have this 75% sugar solution). If blood glucose levels remain elevated in the first hour, then insulin isn’t working at optimal rate. Ideally insulin should make sure it steadily goes into your cells.  
