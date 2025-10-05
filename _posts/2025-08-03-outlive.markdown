@@ -47,7 +47,7 @@ Strategy is the overall plan while tactics is what we do to implement the smalle
 Post age 50, we usually see deterioration in physical and cognitive skills. We should try to plan now itself if we want to tackle how we live in the later years. We can follow the activities of daily living, which has basic things like walking unassisted, bathing and grooming, preparing meals, etc. Pretty simple when we are young, but gets harder as we age in our later years.  
 There is also emotional deterioration which can happen in young people too, something independent of age.  
 
-![Outlive](assets\img\outlive_1.jpg)
+![Outlive]({{"assets\img\outlive_1.jpg", | relative_url}})
 
 Med2.0 is the old medicine way where we treat the symptoms, but Med 3.0 preaches to change lifestyle, tackle the source. 
 
