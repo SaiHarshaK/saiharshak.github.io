@@ -19,14 +19,14 @@ author: harsha
 The author gave up medicine when he realized as a cancer specialist that he was only delaying the inevitable rather than curing them. But later he realized that we can actually put a stop to the source, i.e., our lifestyle, which mostly is the cause of the diseases we get. 
 
 
-## Long game, from fast death to slow death 
+## 1. Long game, from fast death to slow death 
 
 Longevity is not just how long we live but also the quality with which we live.   
 Most of the time, when we are admitted to hospital for a chronic disease, it’s too late and at the point where little could be done. The only good way is to change the source, the lifestyle. For example, the major reduction in people stopping smoking over the last decade has eliminated so many problems.  
 Emotional health is also very important, as it alone can decimate whatever things we have been maintaining physically. 
 
 
-## Rethinking medicine for the age of chronic disease 
+## 2. Rethinking medicine for the age of chronic disease 
 
 The author says resistance to change and innovation at his place for usual medical procedures, made him want to quit.  
 It’s about the risk and reward factor, risk is more readily taken in other professions like banking finance but in Medicine, it's more emotional than analytical emphasis is put.  
@@ -42,7 +42,7 @@ Most medicine procedures, diagnosis etc. right now are on data which is taking a
 
 We should start focusing on our quality of life (health span) for helping against diseases. Most medicine classes don’t really talk about things like how to maintain our physical and cognitive skills as we age, etc. - like exercise, having enough sleep, nutritional benefits. 
 
-## Objective, strategy, tactics 
+## 3. Objective, strategy, tactics 
 Strategy is the overall plan while tactics is what we do to implement the smaller tasks at hand to achieve the result - the objective.  
 Post age 50, we usually see deterioration in physical and cognitive skills. We should try to plan now itself if we want to tackle how we live in the later years. We can follow the activities of daily living, which has basic things like walking unassisted, bathing and grooming, preparing meals, etc. Pretty simple when we are young, but gets harder as we age in our later years.  
 There is also emotional deterioration which can happen in young people too, something independent of age.  
@@ -61,7 +61,7 @@ Med 3.0 primarily asks to do these to help with healthspan,
 Exercise alone can help fight against so many ailments, especially cardiovascular exercises.  
 Sleep is also very essential, it helps retain our cognitive skills much longer, fight against mental health issues 
 
-## Centenarians, the older we get the healthier we have been 
+## 4. Centenarians, the older we get the healthier we have been 
 Lot of centenarians have peculiar habits like drinking, smoking and aren’t really that health conscious as an average person. It is very likely that the genes are in play for their longevity.  
 What we can do is follow certain behaviors to get what the centenarians get for free via their genes, as getting their genes is out of picture.   
 Natural selection prefers traits which help us reproduce early in life not those which help us stay healthy for long, this explains why most people still carry genes like male patterned baldness, etc. this concept is called antagonistic pleiotropy, where a gene may have beneficial effect early on (boosting fertility, bond strength, etc) but harmful effects later (cancer risk, neurodegeneration). Hence, the bad genes are carried forward as natural selection doesn’t care to eliminate them.  
@@ -70,7 +70,7 @@ So, to address these genes, we need to take extra measure by strengthening our c
 We should focus on delaying the onset of diseases instead of delaying the duration of the disease.  
 Another thing to note is that the research for tackling diseases are being done one at a time, that is separate research for cancer, for Alzheimer’s, for heart stroke, instead of finding the commonalities and trying to address those. 
 
-## Eat less live longer, science of hunger and health 
+## 5. Eat less live longer, science of hunger and health 
 
 A molecule by the name Rapamycin, revolutionized the study of medicine, especially for transplant medicine. It was known to extend the maximum lifespan of people.  
 It was initially used for its antifungal properties but was later discovered to have immunosuppressive (suppress immune system - organ transplant, new organs are not rejected by immune system) and anti-proliferative properties (stops cells from multiplying - cancer treatment).  
@@ -90,7 +90,7 @@ This is because there are actually two mTOR, mTOR1 and mTOR2. When taking daily 
 
 People are more skeptical about taking these medicines – why take Rapamycin when we are already healthy? as medicines are usually taken when sick. That’s why the author is trying to show why med 3.0 is important to bring the shift in mindset.  
 
-## The crisis of Abundance 
+## 6. The crisis of Abundance 
 
 Liver is body true workhorse. A healthy liver is normally in a deep dark purple colour with smooth texture. It seems most people have non-alcoholic fatty liver disease where fat builds up in liver without alcohol consumption. 
 Liver is also known to regenerate a lot, donor and recover of liver transplant both recover fairly quickly.  
@@ -119,6 +119,33 @@ There were some studies on why we might have lost this enzyme, which attributed 
 This is useless in modern times as we have a lot of food abundance and preservative methods.   
 But again, it’s very difficult to gain fat eating a lot of apples compared to table sugar because apple’s fructose is slowly digested with its fiber etc. Its not just fructose, but even a lot of preservatives give increased uric acid. So that’s why having a lot of fruit juice or foods with excessive preservatives are also bad.  
 
-
 When cells metabolize, they spend some energy to metabolize and then after metabolizing the food they generate more ATPs. There is an enzyme which controls how much energy a cell can spend for metabolizing, but for fructose case another enzyme does it, which doesn’t put any limits. So, the body thinks that energy levels are dropping too much when metabolizing when in-fact a lot of energy is going to be generated.  
 One test to check signs of early insulin resistance is, on empty stomach have a solution with high sugar (Doctors have this 75% sugar solution). If blood glucose levels remain elevated in the first hour, then insulin isn’t working at optimal rate. Ideally insulin should make sure it steadily goes into your cells.  
+
+## 7. Confronting and preventing heart disease
+Calcium test via CT scan on heart arteries checks for calcification in arteries. At an early age we should have 0, but many don’t; Even though on the outside they look perfectly normal. Because most people have non alarming or an average score (given average is shifted because population as a whole is getting unhealthy), doctors as per MED 2.0 tell us it’s all good. But infact, it’s a sign to take care of ourselves.
+
+Cholesterol is important to our body, and used to produce cell membrane, hormones etc. All cells produce it, but liver produces the most and ships it to others and retrieves it. It is not water soluble, so it cannot be dissolved in our plasma to transport it everywhere else. Instead they are transported as tiny sphericals called lipo-proteins (The L in HDL and LDL - which are part lipids(fats) (inside the structure) and part proteins (outside the structure)).
+
+They are called LDL (low-density lipoprotein) and HDL (high-density lipoprotein) because of the ratio of fat (lipid) to protein they contain. LDL carry more lipids while HDL carry less lipids, as lipids are of lower density. There are also VLDL (very low density Lipoprotein) which are even harmful. Basically, HDL outer later has protein Apolipoprotein-A, while LDL, VLDL and IDL(intermediate density) ones have Apolipoprotein-B which seems to be present in the calcification signature/Atherosclerosis. 
+
+The cholesterol we eat such as from egg yolks etc, is just excreted and does little to contribute to Atherosclerosis. The vast majority of cholesterol in our body is actually produced by our own cells. Hence, we don’t really need to bother about over consumption of cholesterol food items. What is more problematic is the saturated fats consumed.  
+
+The Artery walls are actually permeable (the tissue area) and the LDL, HDL molecules can pass through it - in and out. But the LDL molecules (specifically, Apo-B part of it) stick to it. So it’s not cholesterol which is bad but the particles carrying it. Eventually the particles which are stuck are oxidised. Same is the case with VLDL and IDL, or anything with Apo-B. If too much of the oxidised cells are present, monocytes (large white blood cells) come, and become macrophages and try to eat up the oxidized cells. But if it consumes too much cholesterol, it blows up into foam cells. All of these line up to form some clump of fatty cells.   
+
+Here when HDLs comes across these foam cells, it would suck up the cholesterol using a process called delipidation. It also acts as an anti-oxidant for the artery cells. Though HDL helps us, increasing it via specialised drugs did not seem to give much benefit after some point, it’s more about increasing it’s functionality than the volume of it - for which research is currently going on.  
+This is still an active area of research — understanding what exactly drives antioxidant protection or helps clear oxidized cells. Interestingly, some patients and centenarians have been found to have very high LDL levels yet show no signs of atherosclerosis. However, in most people, atherosclerosis and arterial plaque development are very hard to detect in the early stages.  
+A CT angiogram (CTA) can help identify both calcified and non-calcified (soft) plaque, but it exposes you to more radiation than a regular CT scan. The author claims that in many cases, the information gained can justify the small added risk.
+
+Over time, soft plaque becomes calcified, which is what shows up on a coronary calcium CT scan. However, the presence of calcified plaque also implies that there are likely other non-calcified (and potentially more dangerous) plaques that are not yet visible on the scan.  
+The author also said that the calcified plaque is stable while the non calcified (soft) plaque can rupture, causing a clot and thereby a heart attack due to the block in the passage.  
+The tests these days count number of Apo-B particles instead of LDL and HDL, as they are more meaningful, but most doctors still follow the old procedures.
+
+Another deadly particle is the LP-a particle (Lipoprotein(a)), which is basically LDL with apolipoprotein(a). Due to the shape of it, it sweeps along any oxidised lipids along the way, so it kind of also helps clear out the passageway. But because it’s from the Apo-b family, it can also attach to the artery walls. And because of its structure it’s more likely to get stuck than LDL particles, along with the extra cargo of oxidised lipids, becoming more dangerous than LDL particles. More chances of causing plaques and ore mature heart attack.
+
+We can only do limited things in reducing lpa(a) concentration but we can reduce Apo-B overall concentration, thereby reducing overall risk. But we can’t really lower them much with drugs without much side effects.
+There were also studies done where they tried to reduce HDL-C and increase, both didn’t give much benefit.  
+
+Smoking and blood pressure also damage the artery walls, thereby making it more easy for ApoB and other particles to get stuck
+
+Saturated fat seems to increase synthesis of total cholesterol levels in body, and Apo-B particles. The excess saturated fat also seems to block the LDL receptors in liver thereby reducing the amount of LDL removed from circulation. 
