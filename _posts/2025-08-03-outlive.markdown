@@ -149,3 +149,37 @@ There were also studies done where they tried to reduce HDL-C and increase, both
 Smoking and blood pressure also damage the artery walls, thereby making it more easy for ApoB and other particles to get stuck
 
 Saturated fat seems to increase synthesis of total cholesterol levels in body, and Apo-B particles. The excess saturated fat also seems to block the LDL receptors in liver thereby reducing the amount of LDL removed from circulation. 
+
+## 8. Cancer
+The median age of cancer diagnosis is 66. The older we get the more prevalent the chances of cancer become. The cure for cancer is still far away, what doctors can do is to try and delay remission. In some rare cases a person's immune system has fought and cured cancer.
+
+Once a person gets cancer, there is a chance to get metastatic tumour (secondary tumour) - where the tumour cells move away from the primary site and start growing at other organs/tissues. This process is called metastasis. One example is breast cancer, metastasizing into the lungs.  
+It is this that is responsible for most cancer deaths. Even after removing cancer from the primary tumour, we never know if it has already spread elsewhere and is just waiting to gain a foothold there - it won't turn up on any scans.
+That's why people die when they get breast or prostate cancer while we do know that people can survive without these organs.
+
+Cancer prevention is tricky as we don’t know the exact details yet unlike atherosclerosis and other diseases. Immunotherapy seems to show promise. Most importantly, it is crucial to find the cancer cells as early as possible, as it’s easier to deal with them at early stages.
+
+People have tumour suppressor genes, such as PTEN, which regulate cell growth and prevent cells from forming tumours. In cancer patients, these genes are often found to be mutated or lost, which causes them to lose their normal function.  
+Research shows that there is no - one or common set of genes causing cancer, but random set of mutations which come together to evolve into cancer. Two women having breast cancer can have two completely different cancer genomes and they would need different cure for their cases.
+
+Chemotherapy affects those cells more, which rapidly divide - the cancer cells. But this is also true for non cancer cells like hair follicles, gut cells, mouth lining etc, and hence the most commonly seen side effects are on these sites. But on the other side, if the cancer cells survive these procedures they become even more resistant. 
+
+Compared to normal cells, many cancer cells have altered metabolism, consuming huge amounts of glucose. They also have some uncanny ability to evade the immune system cells. If we were to solve these, we may get to target cancer cells only and sparing the non cancer cells, thereby the patient.
+
+Coming to the metabolic part, most healthy cells use aerobic respiration which produces around 36-38 ATP cells but cancer cells use anaerobic respiration (don’t use O2) and give only 2 ATP cells. This is called the Warburg effect. We can use these findings to find cancer cell spots in the body, a radioactive high concentration of glucose is sent to the body and a pet scan shows where are the places with high glucose levels.  
+But they do produce a lot of byproducts when doing anaerobic glycolysis which are used as building blocks for new cells. Another finding is that, the lactic acid etc produced as by products reduce the pH and the immune cells can’t function as good as normal. 
+
+One key connection among obesity, smoking, and insulin resistance is that they all promote chronic inflammation, which in turn creates a biological environment that increases the risk for many chronic diseases, including cancer.
+
+Elevated insulin levels can act as a cancer enabler, because insulin — along with insulin-like growth factor 1 (IGF-1) — activates growth-promoting pathways (such as PI3K–AKT–mTOR). These pathways stimulate cell growth and proliferation while increasing glucose uptake by cells. When chronically elevated, this signaling can fuel tumor cells, which thrive on glucose and rapid growth.
+
+There was a study about using drugs to reduce PI3K to tackle breast cancer. Only one person survived it, in that study, but one differentiating factor was that she strictly had low glucose diet. It was later noticed that, reducing PI3K would mean cell pathways to let glucose into cells was blocked, which meant more glucose staying behind in the bloodstream, which in turn meant more insulin production , which defeats the purpose - having low glucose diet like ketogenic diet, definitely helped. 
+
+In Outlive, Peter Attia explains that T cells (T lymphocytes) are the immune system’s "assassins" designed to detect and destroy abnormal or cancerous cells. However, cancers often evade them by exploiting immune checkpoints that switch T cells off. The development of checkpoint inhibitor therapies—drugs that release these immune brakes—has allowed T cells to once again recognize and kill cancer cells, leading to remarkable cures in some cases.
+
+As cancer grows there simply aren’t enough T cells to detect and kill them. Adoptive Cell Transfer (ACT) - sometimes referred to as CAR-T cell therapy - where doctors take a patient's own T cells, modify or multiply them in a lab, and then re-infuse them into the body to hunt down and destroy cancer cells. These engineered T cells can be designed to recognize specific tumor markers that normal T cells might miss.  
+These can be genetically modified or some isolated tumour cells can be taken and checked with body’s T cells if specifically any of them are able to kill them, and then those are multiplied and reinfused.
+
+Our early stage cancer discovery systems are also not there yet. Lot of false positives and false negatives are present. With multiple tests, we get more clarity.
+- **Sensitivity** measures how good a test is at detecting disease when it’s truly there — in other words, its ability to catch true positives. A highly sensitive test minimizes false negatives, meaning it’s unlikely to miss a case of cancer.
+- **Specificity**, on the other hand, measures how good a test is at correctly identifying people who don’t have the disease. A highly specific test minimizes false positives, meaning it won’t mistakenly flag healthy people as having cancer.
