@@ -183,3 +183,72 @@ These can be genetically modified or some isolated tumour cells can be taken and
 Our early stage cancer discovery systems are also not there yet. Lot of false positives and false negatives are present. With multiple tests, we get more clarity.
 - **Sensitivity** measures how good a test is at detecting disease when it’s truly there — in other words, its ability to catch true positives. A highly sensitive test minimizes false negatives, meaning it’s unlikely to miss a case of cancer.
 - **Specificity**, on the other hand, measures how good a test is at correctly identifying people who don’t have the disease. A highly specific test minimizes false positives, meaning it won’t mistakenly flag healthy people as having cancer.
+
+## 9. Alzheimer's Disease
+Apo-E correlates to Alzheimer’s, which is responsible for lipo transport and metabolism in brain. It gas three variants - E2, E3 and E4. 
+
+Everyone inherits one copy from each parent, so you can be:
+- E3/E3 (most common, “neutral” risk)
+- E2/E3 or E2/E2 (slightly protective)
+- E3/E4 or E4/E4 (higher Alzheimer’s risk)
+
+These and other neuro-degenerative diseases don’t have any cure yet but we can try our best to prevent them:
+- **Alzheimer’s**: Memory-loss dementia caused by buildup of amyloid and tau proteins that damage brain cells.
+- **Lewy Body Dementia**: Dementia caused by alpha-synuclein (Lewy bodies); leads to hallucinations, alertness changes, and movement problems.
+- **Parkinson’s Disease**: Movement disorder from loss of dopamine neurons; later can cause dementia due to Lewy body buildup. Also affected by alpha-synuclein.
+
+There are E4/E4 centenarians too, who likely have other genes who protect them from Alzheimer’s. So just having E4 doesn’t guarantee a diagnosis of Alzheimer’s.
+
+The brain makes amyloid precursor protein (APP), which helps with neuron growth and repair. Normally, enzymes cut APP into harmless fragments. But when it’s cut the wrong way, it produces amyloid-beta, a sticky protein. These fragments clump together to form plaques between brain cells, disrupting communication and triggering inflammation. Over time, this leads to neuron death and Alzheimer’s disease.  
+Tau helps stabilize the tiny structures (called microtubules) that transport nutrients and signals within brain cells.
+
+Basically,  
+Amyloid-beta builds up outside neurons (plaques).  
+Tau tangles form inside neurons, causing inflammation and brain shrinkage.  
+Together, they drive the brain damage seen in Alzheimer’s disease.  
+
+![A-beta and Tau](assets/img/outlive_9.1.jpg)
+
+Currently, this is the dominant theory right now and not conclusive that it by itself is the reason for Alzheimer’s. There were drugs developed to stop or reduce the Amyloid-beta production but the benefit is yet to be seen on the patients, but again these were tried on patients who were already on late stage - as they were identified later.  
+There are many studies which question the correlation with Amyloid-beta and there are also lot of dementia patients with little to no build up of amyloid-beta; making it seem like it’s neither a sufficient or required condition for Alzheimer’s. 
+
+Subtle brain changes begin long before the early, diagnosable stages of Alzheimer’s disease. These changes can occur years or even decades before memory loss becomes noticeable. Standard cognitive tests, such as recalling a list of words or repeating phrases, often fail to detect this early decline because they measure only obvious symptoms that appear later. By the time such tests show impairment, significant damage may already have occurred in the brain. 
+
+Doing cognitive exercises clearly helped delay the Alzheimer’s process. Same is true with movement exercises for Parkinson’s disease. More complex the better, for example, dancing is better at delaying the progress than walking.
+
+Some tests on rats show that restricting blood flow in brain, was also causing memory related issues and them being more severe in old ones. Even for us, as we age it’s possible for atherosclerosis to occur in the brain blood vessels. These studies also tried to show that amyloid-beta and the tangling is more of a product than the cause.
+
+Having Diabetes increasing the chance of Alzheimer’s, as:  
+With diabetes/insulin-resistance, your body’s ability to handle glucose is impaired, meaning higher circulating glucose, higher insulin, more variability, etc.
+- This metabolic dysfunction damages blood vessels (including those in the brain) and leads to poorer perfusion (blood circulation).
+- At the same time, neurons may struggle to use glucose effectively (or insulin signalling in the brain may be impaired) so their "fuel" supply is compromised (more on this below).
+- The hippocampus and other brain areas critical for memory are especially vulnerable to metabolic dysfunction, so the damage accumulates.
+- Genetic vulnerabilities (like APO-E E4) may worsen how metabolic dysfunction affects the brain.
+- Over time, this combination facilitates the pathological changes seen in Alzheimer’s (neuron loss, dysfunction, accumulation of amyloid/​tau, etc).
+
+Why are insulin receptors in brain if brain doesn’t store any energy?  
+Insulin in fat or muscle says "store energy", but in the brain it says "maintain synapses, protect neurons, and coordinate metabolic signaling."
+
+Studies also showed that E4 is poorer than the other variants in moving cholesterol in and out of the brain.  
+Evolution wise the original ancestors have E4/E4 variants and were largely helpful against infectious diseases, the inflammation in brain helped fight these off but they are harmful in our modern life.
+
+Exercise, especially endurance, helps the mitochondrial functionality and strength training. Specifically grip training seems to help Dementia cases. Apparently, sauna and maintaining oral health also helps.
+
+## 10. Framework of Principles
+Things we could do to tackle all the chronic diseases we have seen before:
+- Exercises - aerobic and strength both
+- Diet and nutrition
+- Sleep
+- Techniques and tools to improve emotional health
+- drugs, supplements and hormones, basically the Exogenous molecules
+
+## 11. Exercise
+Both cardio and strength training are equally important. But compared to doing nothing, even walking is good.
+
+One important biological marker is peak aerobic cardio respiratory fitness using VO2 - the max rate at which a person can utilize oxygen.
+
+On the other hand, just big muscles aren’t enough, those muscles should be able to create force.
+
+Exercise also helps with brain health - it releases molecules which improves memory, and also signals body for better bone and immune system.
+
+Excelling at one sport is good, but lets say going all in on cycling only helps your lower body. Thats why the author emphasised that we should also be generic enough, and be able to do wide variety of things.
