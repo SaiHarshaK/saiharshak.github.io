@@ -252,3 +252,237 @@ On the other hand, just big muscles aren’t enough, those muscles should be abl
 Exercise also helps with brain health - it releases molecules which improves memory, and also signals body for better bone and immune system.
 
 Excelling at one sport is good, but lets say going all in on cycling only helps your lower body. Thats why the author emphasised that we should also be generic enough, and be able to do wide variety of things.
+
+## 12. Stability
+Stability is very important while doing exercises, be it cardio or strength training. It's about us not getting injured while doing them.
+
+Glucose can be converted to energy in multiple ways but Fats can be converted to energy only in the Mitochondria. Typically, lower intensity workout burn fat while higher intensity workouts burn the glucose.
+
+Exercises can be split into zones. Zone 1 being normal walk, Zone 5/6 being sprinting with us going all in. Zone 2 is recommended for fat burn.
+
+Athletes can easily switch between the fuel sources - fats/glucose. Usually for low intensity workouts or movements, fats are preferred for fuel, but in the case of sedentary people - they are stuck with glucose consumption even for simple things. The fats are just stuck in the cells, making it very hard to lose fat.
+
+Lactate is produced during glucose consumption when your cells run low on oxygen or when the energy demand is so high that the oxygen-based pathway can’t keep up.Lactate monitor helps check how much lactate is being produced. It by itself is not harmful, but paired with hydrogen ion it becomes lactic acid, which causes pain and stiffness in muscles. Body can cycle the lactate but it also depends on - how much can it recycle. Anything more than your current limit, lactic acid is produced.
+
+Zone 2 produces ~2 milli-moles/L of lactate. Primarily, fat is burned but glucose use is also present. This zone is where we can hold conversations but it is a little bit strained, going to any higher zone means that it’s hard to hold conversations.
+
+If our goal is to raise VO2 max - maximum rate at which your body can take in, transport, and use oxygen during intense exercise; then we need to concentrate more on zones which make us reach there - higher zones.
+
+We use type 1 muscle fibre for doing daily things but unless we push ourselves with heavier weights, the type 2 muscle fibres would wither away, causing loss in muscle mass and strength.  
+This process fastens up if we are sedentary and just eat excess calories. This is because one of the main destination of fat spillover is muscles.  
+It is important to note that it is very difficult to get more muscle mass as we age.
+
+Body fat percentage and Bone mineral density are also essential markers to check. As we age, BMD decreases and lose muscle mass, especially when we don't have enough nutrition. BMD and Muscle mass helps us with stability.
+
+Carrying things is a great way to do exercise. One can look at Rucking, which is walking or hiking with weighted backpack.  
+Grip strength exercises are also very important, such as farmers carry, dead hangs, etc.  
+We should take consideration of all angles when doing exercises so that all muscles are involved.  
+Hip hinging movements are important too - basically legs, glutes and lower back.  
+
+We need to train and check on following too:
+- Concentric strength is when muscles shorten to create movement, like lifting a weight or standing up from a chair. It builds power for everyday actions.
+- Eccentric strength is when muscles lengthen under tension, like lowering yourself into a chair or walking downstairs. It improves control and prevents falls.
+- Isometric strength is when muscles hold steady without moving, like in a plank or holding a bag still. It builds stability and balance.
+
+## Chapter 13
+
+Lot of people stop exercise after getting some injury. That's why stability is very important and we need to take care so that we don’t get injured.
+
+It’s not just imbalance, rigidness, it's about how efficiently can we transmit force safely. If only some of the force generated is being utilized, the rest has to go somewhere. Typically, it choses the path of least resistance which is our joints, spine, etc.
+
+Dynamic Neuromuscular Stability (DNS) — a concept from rehabilitation science that focuses on how the brain, muscles, and joints coordinate to maintain proper posture, balance, and movement control.  
+The idea is that movement quality, not just muscle size or endurance, is what keeps the body functional and prevents injury as we age.
+
+The author emphasizes that this coordination begins in infancy, where we learn fundamental patterns like rolling, crawling, and standing. DNS training aims to retrain those natural patterns that often get lost due to poor posture, sitting habits, or overtraining specific muscles.
+
+Breathing correctly is also important, be it weight training or for cardio. Stay flat on ground, place one of your hand on stomach and other on chest. When you inhale, check what hand rises up. Based on it we have three categories -
+
+1. The Hyperinflated Guy
+  - This person is always in a chest-up, rib-cage-flared position — like they’re perpetually taking a deep breath.
+  - Their diaphragm doesn’t descend properly, so their breathing relies heavily on the chest and neck muscles.
+  - This leads to tight lower backs, stiff necks, and limited mobility, even though they may look "fit" or"upright".
+  - Many athletes or gym-goers fall into this category because they overtrain without focusing on proper breathing mechanics.
+
+2. The Sad Guy
+  - Characterized by a collapsed chest, rounded shoulders, and forward head posture.
+  - The diaphragm is again not functioning well — this time because the rib cage is compressed downward.
+  - This pattern restricts lung expansion, reduces oxygen efficiency, and contributes to low energy, back pain, and poor movement control.
+  - Common among people who sit for long periods or have sedentary lifestyles.
+
+3. The Yogini
+  - Represents extreme flexibility but poor stability.
+  - They can bend deeply but lack muscular control around their joints, leading to instability and potential injury.
+  - Flexibility without strength and coordination doesn’t equal healthy movement.
+  - The goal isn’t to be the yogini but to find balance between mobility, strength, and control.
+
+One need not just belong to one but can overlap.
+
+Feet also plays an important role. It controls posture and also dampens force before it reached knees, joints and back. We should take care about the kind of shoes we wear.  
+We also need to put our feet flat and not put weight only on outer edges(supinated) or inner edges(pronated).
+
+Must do joint exercises - https://peterattiamd.com/outlive/videos/
+
+## 14. Nutrition
+Lot of people talk about a one diet being best - vegan, carnivore, vegetarian, ketogenic etc. There is no one best diet. We need to figure out based on what our body needs. 
+
+We need to check if we are
+- over/under nutritioned
+- adequate/under muscled
+- Metabolically healthy
+
+Most experiments require group of people to adhere to a strict diet to get findings which is hard to enforce, so most studies aren't that definitive - cannot be trusted so much.
+Most studies have a healthy user bias where the baseline health of test group is inferred than the actual input. Maybe a part of the test subjects were very healthy so more tolerant towards a particular input, vice versa.  
+
+## Chapter 15
+Companies have a goal to get their products available for higher reach, better storage, easy transportation and more palatable; but they don't have a criteria to make them harmless. Many foods have:
+- Added sugar
+- Highly refined carbohydrates with low fibre content
+- Processed oils, dense caloric foods.  
+which is all basically junk food.
+
+Most diets which people follow have atleast:
+- caloric restriction; total intake in a day
+- dietary restriction; eating less of particular elements like red meat, sugar etc
+- time restriction; eating at specific times or fasting
+
+Most people skip protein.
+
+For caloric restriction, counting calories with apps is very helpful.
+Even in studies with monkeys, where a part of them were fed as much as they wanted and while the other part restricted. It was noted that benefits were much more obvious when they were using processed food than natural food.
+
+For dietary choices, think about what food is calorically dense and try to single them out and restrict/avoid them. Usually restricting carbs help because there are very less choices for ketogenic food and they kind of make you more full than carb based diet. Still having processed fat/saturated fats aren’t good for health, so make note of that - lets say no carbs but unlimited beef, thats still bad.
+Even with dietary choices, let’s say you are vegan, you can still gain weight if you eat too much of anything.
+
+Also same diet wont work for multiple people, what works is different for each person.
+
+Alcohol is very caloric dense and has no nutritional benefits. It delays the fat oxidation. It also promotes mindless eating. It’s hard to restrict to moderate levels for which some studies showed benefits, anyway. The author suggests no more than 2 glasses per day and 7 glasses per week, if we must have.
+
+Continuous Glucose Monitor (CGM) is a good device which helps us find trends on how our body behaves on our diet. For some people some foods give spikes in CGM while some don't.
+
+The more refined the carbs, the higher the spike. If they have any fibre content, it helps blunt the spike. White rice and oatmeal also give spikes as they have high glycemic index.  
+It’s normal for glucose to spike while exercising, especially strength training, as the liver sends more glucose for energy consumption.   
+A good / bad sleep affects heavily on the spike levels.  
+Unsaturated fats, leafy vegetables have no effect on blood glucose. But large amounts of them have a small rise though.  
+Most important benefit is, because we are tracking or observing, we tend to be more conscious of our choices.
+
+Unlike fats and carbs, protein isn’t stored for energy. Though it can be converted to glucose in the liver, that is not the primary source nor the preferred way for consumption.  
+Excess is usually excreted via urine.  
+They are used in muscles, hair, skin and even help forming antibodies in our immune system.  
+There are studies on mice, or general guidelines that low protein diet like 0.8g/kg might be beneficial but the author disagrees.
+
+The author recommends 1.6g/kg for normal people and 2.2g/kg for active people with good kidneys. We shouldn't have all of it at once too, as that would oxidize it and convert it to energy. Spreading it out in various meals is better. Since it is hard to achieve, a protein shake and snack is helpful to achieve this along with protein meals.
+
+The thing about protein from plants is, it is tied up with the indigestible fibre and not largely bio-available for absorption. We could tackle this a bit by cooking, but there's still an another issue.
+The distribution of amino acids is not the same as that available in animal protein, and have less essential amino acids - in particular, they often contain lower amounts of certain essential amino acids such as methionine, lysine and tryptophan, effecting the muscle protein synthesis.  
+The same is true when comparing whey protein isolate and soya protein isolate.
+
+Protein also makes you feel satiated.
+
+Fats are more calories but are still essential and they help with slow oxidation as fuel as well essential block for hormones and cell membrane. It is also required in the brain in the form of fatty acids.
+
+Roles of different fats in longevity.
+	- MUFAs (monounsaturated fats): Best for health. Found in olive oil, avocados, nuts. Improve heart health and insulin sensitivity.
+	- PUFAs (polyunsaturated fats): Include omega-3s (good, anti-inflammatory) and omega-6s (can be harmful in excess). Get omega-3s from fish; avoid seed oils high in omega-6s.
+	- SFAs (saturated fats): Found in butter, meat, dairy. Not automatically bad, but too much can raise LDL particle count. Monitor blood markers instead of avoiding all SFAs.
+Overall: Favor MUFAs, include omega-3 PUFAs, limit seed oils, and watch biomarkers rather than following strict fat rules.
+
+The saturated fats are linear in structure and tightly packed, and hence tending to be solid at room temperature. The unsaturated fats have double bonds, kinks in their structure and are loosely packed, liquid at room temperature . They also react easily with other molecules compared to saturated fats. No food has one type of fats only though. Palm and coconut oils are very close to saturated fats while olive oil is very close to mono-saturated fats.
+
+There is also trans-fats which have been banned. They prolong shelf life but are very harmful. Some food labels used to have them as partially hydrogenated vegetable oil.
+
+While fasting has a lot of benefits - improves cellular regeneration, mTor is inhibited, reduces hunger (as fats are getting oxidized), the author doesn't recommend this for everyone. The 8hr eating window and 16hr fasting window, became very popular but was actually tested in mice. For an animal with 2-3 yr life expectancy, 16hr window is like a multi day fasting for humans so its just isn’t a valid comparison. Hence, 16 hr is too less of a window to obtain all of the fasting benefits.  
+It’s also likely for one to skip their protein requirements and binge eat in their allowed window.
+Especially for lean people, long windows of fasting, would make you lose weight along with muscle mass which is bad.
+
+Author concludes that if he could eliminate one type of food, it would be fructose sweetened food sources and fruit juices (as they lack fibre).
+
+## 16. Sleep - the best medicine for brain
+
+Sleep deprivation makes us do a lot of mistakes and makes it hard to concentrate. It increases metabolic dis-function, increases insulin resistance and hormonal imbalances. Our performance drops and it is more clear if we are athletes. We also look older and have flabbier skin.  
+Poor sleep also increases stress. It makes us feel irrationally hungry the next day, increases cortisol levels causing increased blood pressure. 
+
+Every animal sleeps in some way ( dolphins sleep using one half brain, horses sleep standing, etc) but evolution has not discarded sleep.
+
+Many studies showed we need to have atleast 7.5-8.5 hrs of sleep. Even having too much sleep - 11hrs etc, is bad. 
+
+Sleep has different stages:
+- Non-REM (NREM) sleep
+  - NREM sleep is divided into three stages (N1, N2, N3) after you fall asleep.  
+    - Stage N1: The lightest sleep; moving from wakefulness into sleep, theta waves appear, easy to wake. ~5% of sleep time.  
+    - Stage N2: "Light sleep" but deeper than N1. Characterised by sleep-spindles and K-complexes in EEG (Electroencephalogram, a test to study brain waves and sleep cycle). Makes up the largest portion of sleep (~45% for many adults).  
+    - Stage N3: Also called "deep sleep"/"slow wave sleep (SWS)". High amplitude, low frequency delta waves. Hard to wake from; restorative body functions are strong here.  SWS - slow wave sleep, as brain’s electrical waves are large and slow.
+  - ![Sleep Cycles](assets/img/outlive_16_sleep-cycles.png)
+  - Deep NREM is when the brain clears out its cache of short-term memories in the hippocampus and selects the important ones for long-term storage in the cortex. Also, during deep sleep, the brain activates a "waste disposal" system (cerebrospinal fluid flooding between neurons, clearing inter-cellular junk including amyloid-beta and tau) which is linked to preventing neurodegenerative diseases like Alzheimer’s disease.
+- REM sleep
+  - REM = rapid eye movement sleep. Brain activity in many ways resembles wakefulness (desynchronized EEG), but the body is largely paralysed (muscle atonia).  
+  - Dreams predominantly occur in REM. It’s also important for emotional processing, memory consolidation, and creative problem-solving.
+  - REM contributes to emotional regulation, creativity, procedural memory (skills), and forming neural connections — especially in younger brains.  
+
+The chapter emphasises sleep quality, not just quantity. If you get enough hours in bed but have fragmented sleep, reduced deep sleep or REM phases, you may miss the benefits
+
+Some terms discussed:
+- Sleep Spindles: Short bursts of rapid brain activity seen in N2. They help protect sleep and support memory consolidation.
+- K-Complexes: Large, isolated brain waves during N2. They help keep you asleep despite external noise or stimuli.
+- Delta Waves: Slow, high-amplitude brain waves seen in N3 (deep sleep). Reflect very synchronized, restorative brain activity.
+- Muscle Atonia: A temporary paralysis of nearly all skeletal muscles during REM sleep. It prevents you from acting out your dreams.
+- Desynchronized EEG: Brain waves during REM look irregular and fast — like when you’re awake — even though you’re asleep.
+
+When we are sad before sleep, because it helps with emotional balance, we feel better the next day. We remember the event and not the emotional attachment. Its like PTSD, if we are unable to do this and highly correlated to the fact that the are unable to get into REM sleep. Having less REM sleep, also makes us hard to understand others facial expressions and emotions. Some studies showed others having neutral expression was seen to be menacing.
+
+Poor-quality sleep is strongly correlated with Alzheimer’s disease. In fact, most Alzheimer’s patients show years of reduced or irregular sleep cycles before diagnosis, and the relationship appears to be bidirectional — poor sleep accelerates the buildup of toxic brain proteins, while those same changes further disrupt sleep.
+Cognitive health is also deeply intertwined.
+
+Growth hormones are also released post an hour of getting into sleep, with the peak being for those in adolescence.
+
+The sleep drugs in the market dont let you go to deep sleep, so they arent giving us quality sleep. It might help us tracking us sleep schedule and stages (apps do it based on breathing, heart rate etc) to optimise. But for people who have a hard time sleeping they get stressed out with the metrics so it’s probably better for them to not have.
+Dark rooms help sleep better. Darkness activated hormone, melatonin lets our brain know that it’s time to sleep. But LEDs, like phones, some lights doc are on the blue end of spectrum, resembling more of day light, which makes it harder for us to fall asleep. Keeping the bedroom cool also helps. Alcohol makes it harder to sleep for the later stages of sleep and makes it harder to sleep in the later half of the night if we wake up. Hot bath and sauna also helps. Try to stay on same sleep schedule even on weekends. Sone people are genetically wired to sleep late, so if others dont help we can try shifting our sleep schedule. If nothing above helps, there is cognitive behavioral therapy for insomnia (CBT-I).
+
+Caffeine helps block sleep by blocking Adenosine receptors, where usually Adenosine gradually accumulates when we are active.  
+Caffeine has a half-life of approx six hours (meaning that if you consume a cup around noon, roughly half of it remains active by ~6 pm), but again depends on each person's metabolism.
+
+## 17. Emotional Health
+Feeling lonely and having poor mental illness effects our longevity. This isn't always about diagnosed mental illness but emotional distress plays a huge role and is harder to identify and treat.
+
+Trauma is of five categories:
+- Abuse: physical, sexual, emotional or spiritual
+- Neglect
+- Abandonment
+- Enmeshment, blurring of boundaries between children and adults  
+    - When a parent (or adult) relies on a child for emotional support, companionship, or validation, in ways that a child isn’t developmentally ready for.
+    The roles get reversed — instead of the adult caring for the child, the child becomes the caretaker or emotional partner.
+- witnessing tragic events
+
+Children adapt in different ways for trauma, but the problem occurs when they grow up to be dysfunctional adults.  
+There are four patterns:
+- Addiction (needn’t just be material abuse, can also be work, exercise,etc)
+- co-dependency/excessive psychological reliance  
+needing others for validation and survival 
+- Habituated survival strategies (anger and rage)
+- attachment disorder (emotional detachment)  
+unable to trust or bond
+
+The usual mental illness like schizophrenia have known symptoms but emotional distress are harder to treat and root cause.
+
+A truly fulfilled and long life must align more with eulogy values than resume ones. 
+*Resume Values*
+- These are the things you put on your résumé — achievements, skills, status, success markers.
+e.g., "I'm a doctor", "I built a company", "I hit my fitness goals", "I won awards."
+- They are external and focused on achievement, productivity, and image.
+
+*Eulogy Values*
+- These are the qualities people would talk about in your eulogy — who you were, not what you achieved.
+e.g., "He was kind, patient, generous, loving, loyal."
+- They represent character, relationships, and meaning - what kind of person you are to others and yourself.
+
+When our lives are driven purely by resume values, we often achieve a lot - but remain emotionally empty, disconnected, or anxious. Shifting toward eulogy values helps create emotional stability, purpose, and connection, which are vital to psychological and even physical longevity.
+
+Also we should not be very hard on ourselves. They help us mostly with resume values which don't matter towards the end. Imagine if the same things you are bring hard on yourself are being done by your friend or family member, would you react the same?
+
+Four pillars of emotional fitness that we need to be mindful to begin with:
+- emotional regulation, control on emotions
+- distress tolerance, ability to handle emotional stressors
+- interpersonal effectiveness, how well we make needs and feeling known to others
+- self management, taking care of ourselves, even basic things like getting up on time
+
+When we’re hijacked by stress or anger, the sympathetic "fight-or-flight" system takes over. A simple reset—like splashing ice-cold water on the face or taking a cold shower, activates the parasympathetic response, calming the body so the mind can follow. Deep breaths also help.  
+It's also good to take walks, try rucking without any distractions like phones.
