@@ -207,7 +207,7 @@ Amyloid-beta builds up outside neurons (plaques).
 Tau tangles form inside neurons, causing inflammation and brain shrinkage.  
 Together, they drive the brain damage seen in Alzheimer’s disease.  
 
-![A-beta and Tau](assets/img/outlive_9.1.jpg)
+![A-beta and Tau](assets/img/outlive_9.1.png)
 
 Currently, this is the dominant theory right now and not conclusive that it by itself is the reason for Alzheimer’s. There were drugs developed to stop or reduce the Amyloid-beta production but the benefit is yet to be seen on the patients, but again these were tried on patients who were already on late stage - as they were identified later.  
 There are many studies which question the correlation with Amyloid-beta and there are also lot of dementia patients with little to no build up of amyloid-beta; making it seem like it’s neither a sufficient or required condition for Alzheimer’s. 
