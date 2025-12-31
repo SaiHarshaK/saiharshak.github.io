@@ -2,7 +2,7 @@
 layout: post
 title:  "The Subtle Art of Not Giving a F*ck"
 date:   2025-07-23 20:06:52 +0530
-categories: [Books, Self-Help]
+categories: [Books, Non-Fiction, Self-Help]
 tags: blog
 author: harsha
 ---

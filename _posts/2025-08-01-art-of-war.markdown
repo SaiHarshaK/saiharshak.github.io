@@ -2,7 +2,7 @@
 layout: post
 title:  "Art of War"
 date:   2025-08-03 20:06:52 +0530
-categories: [Books, Self-Help]
+categories: [Books, Non-Fiction, Strategy]
 tags: blog
 author: harsha
 ---
