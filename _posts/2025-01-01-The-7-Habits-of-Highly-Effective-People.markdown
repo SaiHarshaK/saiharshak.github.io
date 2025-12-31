@@ -2,7 +2,7 @@
 layout: post
 title:  "The 7 Habits of Highly Effective People"
 date:   2025-01-01 18:06:52 +0530
-categories: [Books, Self-Help]
+categories: [Books, Non-Fiction, Self-Help]
 tags: blog
 author: harsha
 ---

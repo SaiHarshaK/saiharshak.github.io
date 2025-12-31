@@ -2,7 +2,7 @@
 layout: post
 title:  "Tuesdays with Morrie"
 date:   2025-01-01 17:06:52 +0530
-categories: [Books, Self-Help]
+categories: [Books, Non-Fiction, Self-Help]
 tags: blog
 author: harsha
 ---

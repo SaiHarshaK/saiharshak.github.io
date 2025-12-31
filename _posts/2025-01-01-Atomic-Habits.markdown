@@ -2,7 +2,7 @@
 layout: post
 title:  "Atomic Habits"
 date:   2025-01-01 15:06:52 +0530
-categories: [Books, Self-Help]
+categories: [Books, Non-fiction, Self-Help]
 tags: blog
 author: harsha
 ---

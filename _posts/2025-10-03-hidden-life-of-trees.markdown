@@ -6,7 +6,7 @@ title:  "The Hidden Life of Trees: Peter Wohlleben"
 
 date:   2025-10-03 20:06:52 +0530 
 
-categories: [Books, Self-Help] 
+categories: [Books, Non-Fiction, Nature] 
 
 tags: blog 
 
